@@ -1,0 +1,78 @@
+@charset "UTF-8";
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 500px;
+    height: 500px;
+    border: 1px solid white;
+    box-shadow: 1px 1px 10px black;
+    margin: auto;
+    margin-top: 80px;
+    background-color: white;
+    padding: 10px;
+}
+
+.sexta a{
+    text-decoration: none;
+    color: black;
+    
+}
+.sexta h4{
+    padding-top: 50px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.sexta a:hover{
+    text-shadow: 1px 1px 10px green;
+}
+
+.sexta h5{
+    text-align: center;
+    font-size: 17px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.sexta ul{
+    text-align: center;
+    list-style: none;
+}
+
+.sabado a{
+    text-decoration: none;
+    color: black;
+}
+
+.sabado h4{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.sabado a:hover{
+    text-shadow: 1px 1px 10px green;
+}
+
+.sabado ul{
+    text-align: center;
+    list-style: none;
+}
+
+.voltar{
+    text-align: center;
+    padding-top: 40px;
+}
+.voltar > a{
+    text-decoration: none;
+    color: black;
+}
+
+.voltar > a:hover{
+    text-shadow: 1px 1px 10px green;
+}
