@@ -64,6 +64,48 @@ body{
     list-style: none;
 }
 
+.VJ_30032024 a{
+    text-decoration: none;
+    color: black;
+}
+
+.VJ_30032024 h4{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.VJ_30032024 a:hover{
+    text-shadow: 1px 1px 10px green;
+}
+
+.VJ_30032024 ul{
+    text-align: center;
+    list-style: none;
+}
+
+
+.PASCOA_31032024 a{
+    text-decoration: none;
+    color: black;
+}
+
+.PASCOA_31032024 h4{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.PASCOA_31032024 a:hover{
+    text-shadow: 1px 1px 10px green;
+}
+
+.PASCOA_31032024 ul{
+    text-align: center;
+    list-style: none;
+}
+
+
 .voltar{
     text-align: center;
     padding-top: 40px;
