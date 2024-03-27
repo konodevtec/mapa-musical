@@ -8,13 +8,17 @@
 
 body{
     width: 320px;
-    height: 550px;
     border: 1px solid white;
     box-shadow: 1px 1px 10px black;
     margin: auto;
-    margin-top: 60px;
+    margin-top: 40px;
     background-color: white;
     padding: 10px;
+    margin-bottom: 50px;
+}
+
+p{
+    font-weight: bold;
 }
 
 .sexta a{
@@ -67,6 +71,7 @@ body{
 .VJ_30032024 a{
     text-decoration: none;
     color: black;
+    
 }
 
 .VJ_30032024 h4{
@@ -82,6 +87,12 @@ body{
 .VJ_30032024 ul{
     text-align: center;
     list-style: none;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.VJ_30032024 li{
+    padding: 5px;
 }
 
 
@@ -103,6 +114,12 @@ body{
 .PASCOA_31032024 ul{
     text-align: center;
     list-style: none;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.PASCOA_31032024 li{
+    padding: 5px;
 }
 
 
